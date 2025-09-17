@@ -69,5 +69,5 @@ The main goal of this project was to bring together complex pharma sales data in
 - Designed intuitive dashboards with **interactive storytelling** features  
 - Learned to transform raw pharma sales data into **strategic business insights** for planning and forecasting  
 
----
+------
 
